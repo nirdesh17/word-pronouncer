@@ -19,3 +19,6 @@ Double-click on any word to hear its pronunciation.
 
 ##Contributing
 Feel free to contribute to the development of this extension. Create a pull request with your improvements, bug fixes, or new features.
+
+### Connect me:
+[Linkedin](https://www.linkedin.com/in/nirdesh-devadiya-55b408209)
