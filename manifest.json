@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Word Pronouncer",
+    "version": "1.0",
+    "description": "Pronounce selected words on double-click",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_icon": "icon.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+}
